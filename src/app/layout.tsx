@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "Zerena's Birthday 🎉",
   description: "Join us for a lakeside celebration on April 27, 2025!",
 };
