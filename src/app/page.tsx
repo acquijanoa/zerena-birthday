@@ -61,7 +61,7 @@ export default function ZerenaBirthday() {
           <div className="flex items-center space-x-3">
             <Calendar className="text-rose-500" />
             <span className="text-gray-800 font-semibold">Date & Time:</span>
-            <span className="text-gray-700">Sunday, April 27, 2025 — 11:00 AM</span>
+            <span className="text-gray-700">Sunday, April 27, 2025 - 11:00 AM</span>
           </div>
 
           <div className="flex items-start space-x-3">
@@ -86,10 +86,10 @@ export default function ZerenaBirthday() {
 
           <div className="pt-2">
             <p className="text-sm text-gray-600">
-              Expect a warm lakeside gathering with Zerena’s favorite burgers grilled on-site, delicious pastelitos hondureños, music, laughter, and the best company. Come ready to eat, chill, swim, and celebrate the amazing human Zerena is! 💖🍔🌊
+              Expect a warm lakeside gathering with Zerena’s favorite burgers grilled on-site, delicious pastelitos hondureños, music, laughter, and the people who love her most. Come ready to eat, chill, swim, and celebrate the amazing woman Zerena is! 💖🍔🌊
             </p>
             <p className="text-sm text-gray-600 mt-2">
-              Let us know in the RSVP if you’re down to bring your favorite burger topping or drinks — coolers and juice are golden 🧊🍹<br/>
+              Let us know in the RSVP if you are down to bring your favorite burger topping or drinks; coolers and juice are golden 🧊🍹<br/>
               If you make a killer salad or have a secret cake recipe, this is your moment 👩‍🍳✨
             </p>
           </div>
