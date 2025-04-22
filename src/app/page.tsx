@@ -4,7 +4,6 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Calendar, Flower } from "lucide-react";
 import { motion } from "framer-motion";
-import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export default function ZerenaBirthday() {
@@ -43,7 +42,7 @@ export default function ZerenaBirthday() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
       >
-        Zerena's Birthday Celebration
+        Zerena&apos;s Birthday Celebration
       </motion.h1>
 
       <motion.p
