@@ -7,7 +7,9 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
 export default function ZerenaBirthday() {
-  const [flowerPositions, setFlowerPositions] = useState([]);
+  const [flowerPositions, setFlowerPositions] = useState<
+  { top: string; left: string; duration: number }[]
+>([]);
 
   useEffect(() => {
     const positions = Array.from({ length: 20 }, () => ({
